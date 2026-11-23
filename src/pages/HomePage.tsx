@@ -19,7 +19,7 @@ export default function HomePage() {
             text: "Разгледай услугите",
             href: "#services"
           }}
-          imageSrc="https://storage.googleapis.com/webild/users/user_3MFIrpFWln4b6ycM0NgHaRaz7g7/uploaded-1795457959259-00t7s5eg.jpg"
+          imageSrc="https://storage.googleapis.com/webild/users/user_3MFIrpFWln4b6ycM0NgHaRaz7g7/uploaded-1795457959259-00t7s5eg.jpg?_wi=1"
           imageAlt="Алпинистки услуги и топлоизолация по въжен способ"
           introDelay={1.7}
         />
@@ -38,7 +38,7 @@ export default function HomePage() {
                 "Задържа топлината в стаята",
                 "Бърз и чист монтаж"
               ],
-              imageSrc: "https://storage.googleapis.com/webild/users/user_3MFIrpFWln4b6ycM0NgHaRaz7g7/uploaded-1795457959258-j48y2v4q.jpg",
+              imageSrc: "https://storage.googleapis.com/webild/users/user_3MFIrpFWln4b6ycM0NgHaRaz7g7/uploaded-1795457959258-j48y2v4q.jpg?_wi=1",
               imageAlt: "Вътрешна и външна топлоизолация",
               href: "#contact"
             },
@@ -50,7 +50,7 @@ export default function HomePage() {
                 "Устойчивост на атмосферата",
                 "Спестява разходи за ток"
               ],
-              imageSrc: "https://storage.googleapis.com/webild/users/user_3MFIrpFWln4b6ycM0NgHaRaz7g7/uploaded-1795457959258-j48y2v4q.jpg",
+              imageSrc: "https://storage.googleapis.com/webild/users/user_3MFIrpFWln4b6ycM0NgHaRaz7g7/uploaded-1795457959258-j48y2v4q.jpg?_wi=2",
               imageAlt: "Външна топлоизолация на фасада",
               href: "#contact"
             },
@@ -62,7 +62,7 @@ export default function HomePage() {
                 "Ремонт на високи фасади",
                 "Бърза работа без скеле"
               ],
-              imageSrc: "https://storage.googleapis.com/webild/users/user_3MFIrpFWln4b6ycM0NgHaRaz7g7/uploaded-1795457959259-00t7s5eg.jpg",
+              imageSrc: "https://storage.googleapis.com/webild/users/user_3MFIrpFWln4b6ycM0NgHaRaz7g7/uploaded-1795457959259-00t7s5eg.jpg?_wi=2",
               imageAlt: "Алпинистки услуги по фасади",
               href: "#contact"
             },
@@ -74,7 +74,7 @@ export default function HomePage() {
                 "Внимание към всеки детайл",
                 "Спазване на уговорени срокове"
               ],
-              imageSrc: "https://storage.googleapis.com/webild/users/user_3MFIrpFWln4b6ycM0NgHaRaz7g7/uploaded-1795457959259-p48ckzpq.jpg",
+              imageSrc: "https://storage.googleapis.com/webild/users/user_3MFIrpFWln4b6ycM0NgHaRaz7g7/uploaded-1795457959259-p48ckzpq.jpg?_wi=1",
               imageAlt: "Фасаден ремонт и изолационна система",
               href: "#contact"
             },
@@ -86,7 +86,7 @@ export default function HomePage() {
                 "Възстановяване на фуги и мазилки",
                 "Гарантирана безопасност"
               ],
-              imageSrc: "https://storage.googleapis.com/webild/users/user_3MFIrpFWln4b6ycM0NgHaRaz7g7/uploaded-1795457959261-iysdowws.jpg",
+              imageSrc: "https://storage.googleapis.com/webild/users/user_3MFIrpFWln4b6ycM0NgHaRaz7g7/uploaded-1795457959261-iysdowws.jpg?_wi=1",
               imageAlt: "Монтаж на топлоизолация на височина",
               href: "#contact"
             },
@@ -98,7 +98,7 @@ export default function HomePage() {
                 "Възстановяване на мазилки",
                 "Чистота по време на работа"
               ],
-              imageSrc: "https://storage.googleapis.com/webild/users/user_3MFIrpFWln4b6ycM0NgHaRaz7g7/uploaded-1795457959261-wsom0fct.jpg",
+              imageSrc: "https://storage.googleapis.com/webild/users/user_3MFIrpFWln4b6ycM0NgHaRaz7g7/uploaded-1795457959261-wsom0fct.jpg?_wi=1",
               imageAlt: "Възстановяване и мазилки на фасади",
               href: "#contact"
             },
@@ -110,7 +110,7 @@ export default function HomePage() {
                 "Вграждане на LED осветление",
                 "Естетичен краен резултат"
               ],
-              imageSrc: "https://storage.googleapis.com/webild/users/user_3MFIrpFWln4b6ycM0NgHaRaz7g7/uploaded-1795457959259-p48ckzpq.jpg",
+              imageSrc: "https://storage.googleapis.com/webild/users/user_3MFIrpFWln4b6ycM0NgHaRaz7g7/uploaded-1795457959259-p48ckzpq.jpg?_wi=2",
               imageAlt: "Окачени тавани и сухо строителство",
               href: "#contact"
             },
@@ -122,7 +122,7 @@ export default function HomePage() {
                 "Качествени латексови бои",
                 "Безпрекорно гладък финиш"
               ],
-              imageSrc: "https://storage.googleapis.com/webild/users/user_3MFIrpFWln4b6ycM0NgHaRaz7g7/uploaded-1795457959261-wsom0fct.jpg",
+              imageSrc: "https://storage.googleapis.com/webild/users/user_3MFIrpFWln4b6ycM0NgHaRaz7g7/uploaded-1795457959261-wsom0fct.jpg?_wi=2",
               imageAlt: "Шпакловка и нанасяне на декоративна мазилка",
               href: "#contact"
             }
@@ -141,15 +141,15 @@ export default function HomePage() {
           successText="Благодарим ви! Ще се свържем с вас възможно най-скоро."
           images={[
             {
-              imageSrc: "https://storage.googleapis.com/webild/users/user_3MFIrpFWln4b6ycM0NgHaRaz7g7/uploaded-1795457959258-j48y2v4q.jpg",
+              imageSrc: "https://storage.googleapis.com/webild/users/user_3MFIrpFWln4b6ycM0NgHaRaz7g7/uploaded-1795457959258-j48y2v4q.jpg?_wi=3",
               imageAlt: "Външна топлоизолация на сграда"
             },
             {
-              imageSrc: "https://storage.googleapis.com/webild/users/user_3MFIrpFWln4b6ycM0NgHaRaz7g7/uploaded-1795457959259-00t7s5eg.jpg",
+              imageSrc: "https://storage.googleapis.com/webild/users/user_3MFIrpFWln4b6ycM0NgHaRaz7g7/uploaded-1795457959259-00t7s5eg.jpg?_wi=3",
               imageAlt: "Алпинистки ремонт по фасада"
             },
             {
-              imageSrc: "https://storage.googleapis.com/webild/users/user_3MFIrpFWln4b6ycM0NgHaRaz7g7/uploaded-1795457959261-iysdowws.jpg",
+              imageSrc: "https://storage.googleapis.com/webild/users/user_3MFIrpFWln4b6ycM0NgHaRaz7g7/uploaded-1795457959261-iysdowws.jpg?_wi=2",
               imageAlt: "Топлоизолация по въжен способ"
             }
           ]}

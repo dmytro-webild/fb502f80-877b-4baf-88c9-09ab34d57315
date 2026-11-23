@@ -10,7 +10,7 @@ export interface Inquiry {
 
 const STORAGE_KEY = "toploizolaciq_inquiries";
 const NOTIFICATION_EMAIL_KEY = "toploizolaciq_notification_email";
-export const DEFAULT_NOTIFICATION_EMAIL = "info@toploizolaciq.bg";
+export const DEFAULT_NOTIFICATION_EMAIL = "borilmirchev12@abv.bg";
 
 const initialSampleInquiries: Inquiry[] = [
   {
@@ -36,7 +36,11 @@ const initialSampleInquiries: Inquiry[] = [
 export function getNotificationEmail(): string {
   try {
     const email = localStorage.getItem(NOTIFICATION_EMAIL_KEY);
-    return email || DEFAULT_NOTIFICATION_EMAIL;
+    if (!email || email === "info@toploizolaciq.bg") {
+      localStorage.setItem(NOTIFICATION_EMAIL_KEY, DEFAULT_NOTIFICATION_EMAIL);
+      return DEFAULT_NOTIFICATION_EMAIL;
+    }
+    return email;
   } catch {
     return DEFAULT_NOTIFICATION_EMAIL;
   }

@@ -46,7 +46,7 @@ const BEFORE_AFTER_PROJECTS: BeforeAfterItem[] = [
     description: "Начално състояние на фасадата и калкана преди започване на подготвителните и изолационни работи.",
     location: "гр. София, кв. Лозенец",
     imageSrc: "https://storage.googleapis.com/webild/users/user_3MFIrpFWln4b6ycM0NgHaRaz7g7/uploaded-1795458231802-4095brrs.jpg",
-    imageAlt: "Преди ремонта - първа снимка на фасадата",
+    imageAlt: "Преди ремонта – фасадни дефекти в София преди монтаж на топлоизолация",
     highlights: [
       "Компрометирана външна повърхност",
       "Нужда от топлоизолация и грундиране",
@@ -61,7 +61,7 @@ const BEFORE_AFTER_PROJECTS: BeforeAfterItem[] = [
     description: "Подробен оглед на компрометираните фасадни зони и фуги преди монтажа на топлоизолационната система.",
     location: "гр. София, кв. Лозенец",
     imageSrc: "https://storage.googleapis.com/webild/users/user_3MFIrpFWln4b6ycM0NgHaRaz7g7/uploaded-1795458231803-5knjiibf.jpg",
-    imageAlt: "Преди ремонта - втора снимка на фасадата",
+    imageAlt: "Преди ремонта – оглед на необитавана неизолирана фасада в София",
     highlights: [
       "Неизолирана стена с топлинни загуби",
       "Подготовка на основата за залепване",
@@ -76,7 +76,7 @@ const BEFORE_AFTER_PROJECTS: BeforeAfterItem[] = [
     description: "Напълно изградена EPS топлоизолационна система с дюбелиране, армирана шпакловка и завършваща водоотблъскваща мазилка.",
     location: "гр. София, кв. Лозенец",
     imageSrc: "https://storage.googleapis.com/webild/users/user_3MFIrpFWln4b6ycM0NgHaRaz7g7/uploaded-1795458231804-7v6y5se4.jpg",
-    imageAlt: "След ремонта - напълно завършен обект",
+    imageAlt: "След ремонта – напълно завършена EPS топлоизолация и мазилка в София",
     highlights: [
       "100% запечатана и изолирана фасада",
       "Висока енергийна ефективност",
@@ -93,7 +93,7 @@ const PROJECTS: ProjectItem[] = [
     description: "Монтаж на висок клас EPS топлоизолация, армираща мрежа, шпакловка и завършваща водоотблъскваща минерална мазилка.",
     location: "гр. София, кв. Манастирски ливади",
     imageSrc: "https://storage.googleapis.com/webild/users/user_3MFIrpFWln4b6ycM0NgHaRaz7g7/uploaded-1795457959258-j48y2v4q.jpg",
-    imageAlt: "Външна топлоизолация на сграда",
+    imageAlt: "Външна топлоизолация на сграда в София, кв. Манастирски ливади",
     highlights: ["10 см EPS изолационна система", "Армирана защитна мрежа", "Водоотблъскваща минерална мазилка"]
   },
   {
@@ -103,7 +103,7 @@ const PROJECTS: ProjectItem[] = [
     description: "Работа по въжен способ за бърз и сигурен монтаж на топлоизолация без необходимост от изграждане на скъпоструващо скеле.",
     location: "гр. София, кв. Младост",
     imageSrc: "https://storage.googleapis.com/webild/users/user_3MFIrpFWln4b6ycM0NgHaRaz7g7/uploaded-1795457959259-00t7s5eg.jpg",
-    imageAlt: "Работа на алпинисти по фасада",
+    imageAlt: "Алпинистки ремонт и топлоизолация по въжен способ в София, кв. Младост",
     highlights: ["Без необходимост от скеле", "Бърз и сигурен въжен достъп", "Сертифицирани височинни алпинисти"]
   },
   {
@@ -113,7 +113,7 @@ const PROJECTS: ProjectItem[] = [
     description: "Цялостно възстановяване на компрометирана мазилка, полагане на дълбокопроникващ грунд и завършващ устойчив слоен финиш.",
     location: "гр. София, кв. Лозенец",
     imageSrc: "https://storage.googleapis.com/webild/users/user_3MFIrpFWln4b6ycM0NgHaRaz7g7/uploaded-1795457959259-p48ckzpq.jpg",
-    imageAlt: "Фасаден ремонт и изолационна система",
+    imageAlt: "Фасаден ремонт и декоративна минерална мазилка в София, кв. Лозенец",
     highlights: ["Пълна защита от влага и мухъл", "Естетичен и модерен екстериор", "Гаранция за качество"]
   },
   {
@@ -123,7 +123,7 @@ const PROJECTS: ProjectItem[] = [
     description: "Прецизно залепване на XPS/EPS топлоизолационни плоскости, дюбелиране и защитно шпакловане на труднодостъпен калкан.",
     location: "гр. София, кв. Витоша",
     imageSrc: "https://storage.googleapis.com/webild/users/user_3MFIrpFWln4b6ycM0NgHaRaz7g7/uploaded-1795457959261-iysdowws.jpg",
-    imageAlt: "Алпинист извършва топлоизолация на височина",
+    imageAlt: "Топлоизолация по въжен способ на калкан в София, кв. Витоша",
     highlights: ["Обслужване на труднодостъпни зони", "Пълно дюбелиране за стабилност", "Плътна термозащита без термомостове"]
   },
   {
@@ -133,7 +133,7 @@ const PROJECTS: ProjectItem[] = [
     description: "Саниране на фасадни елементи, фугиране, топлоизолация и грундиране с висок клас устойчиви строителни разтвори.",
     location: "гр. София, кв. Овча купел",
     imageSrc: "https://storage.googleapis.com/webild/users/user_3MFIrpFWln4b6ycM0NgHaRaz7g7/uploaded-1795457959261-wsom0fct.jpg",
-    imageAlt: "Монтаж на топлоизолация и мазилки",
+    imageAlt: "Строително-ремонтни дейности и хидроизолация в София, кв. Овча купел",
     highlights: ["Пълна хидро- и топлоизолация", "Възстановена здравина на фасадата", "Повишена енергийна ефективност"]
   }
 ];

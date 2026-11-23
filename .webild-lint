@@ -1,0 +1,6 @@
+src/components/Layout.tsx
+src/components/sections/contact/ContactColumnWindow.tsx
+src/components/sections/features/ServicesIndustryTiles.tsx
+src/components/sections/footer/FooterLimeWordmark.tsx
+src/components/sections/hero/HeroColumnGrid.tsx
+src/pages/HomePage.tsx

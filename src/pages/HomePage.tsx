@@ -20,7 +20,7 @@ export default function HomePage() {
             href: "#services"
           }}
           imageSrc="https://storage.googleapis.com/webild/users/user_3MFIrpFWln4b6ycM0NgHaRaz7g7/uploaded-1795456367815-4kjsrvbu.png"
-          imageAlt="Алпинистки услуги и топлоизолация по въжен способ"
+          imageAlt="Професионална външна топлоизолация и алпинистки услуги по въжен способ в София"
           introDelay={1.7}
         />
       </div>
@@ -39,7 +39,7 @@ export default function HomePage() {
                 "Бърз и чист монтаж"
               ],
               imageSrc: "https://storage.googleapis.com/webild/users/user_3MFIrpFWln4b6ycM0NgHaRaz7g7/uploaded-1795457959258-j48y2v4q.jpg?_wi=1",
-              imageAlt: "Вътрешна и външна топлоизолация",
+              imageAlt: "Вътрешна топлоизолация на апартаменти и жилища в София",
               href: "#contact"
             },
             {
@@ -51,7 +51,7 @@ export default function HomePage() {
                 "Спестява разходи за ток"
               ],
               imageSrc: "https://storage.googleapis.com/webild/users/user_3MFIrpFWln4b6ycM0NgHaRaz7g7/uploaded-1795457959258-j48y2v4q.jpg?_wi=2",
-              imageAlt: "Външна топлоизолация на фасада",
+              imageAlt: "Външна топлоизолация на фасада с EPS и XPS в София",
               href: "#contact"
             },
             {
@@ -63,7 +63,7 @@ export default function HomePage() {
                 "Бърза работа без скеле"
               ],
               imageSrc: "https://storage.googleapis.com/webild/users/user_3MFIrpFWln4b6ycM0NgHaRaz7g7/uploaded-1795457959259-00t7s5eg.jpg?_wi=2",
-              imageAlt: "Алпинистки услуги по фасади",
+              imageAlt: "Алпинистки услуги и въжен достъп за фасадни ремонти в София",
               href: "#contact"
             },
             {
@@ -75,7 +75,7 @@ export default function HomePage() {
                 "Спазване на уговорени срокове"
               ],
               imageSrc: "https://storage.googleapis.com/webild/users/user_3MFIrpFWln4b6ycM0NgHaRaz7g7/uploaded-1795457959259-p48ckzpq.jpg?_wi=1",
-              imageAlt: "Фасаден ремонт и изолационна система",
+              imageAlt: "Фасаден ремонт и изграждане на топлоизолационна система в София",
               href: "#contact"
             },
             {
@@ -87,7 +87,7 @@ export default function HomePage() {
                 "Гарантирана безопасност"
               ],
               imageSrc: "https://storage.googleapis.com/webild/users/user_3MFIrpFWln4b6ycM0NgHaRaz7g7/uploaded-1795457959261-iysdowws.jpg?_wi=1",
-              imageAlt: "Монтаж на топлоизолация на височина",
+              imageAlt: "Монтаж на външна топлоизолация на височина и калкани в София",
               href: "#contact"
             },
             {
@@ -99,7 +99,7 @@ export default function HomePage() {
                 "Чистота по време на работа"
               ],
               imageSrc: "https://storage.googleapis.com/webild/users/user_3MFIrpFWln4b6ycM0NgHaRaz7g7/uploaded-1795457959261-wsom0fct.jpg?_wi=1",
-              imageAlt: "Възстановяване и мазилки на фасади",
+              imageAlt: "Възстановяване и мазилки на жилищни входове в София",
               href: "#contact"
             },
             {
@@ -111,7 +111,7 @@ export default function HomePage() {
                 "Естетичен краен резултат"
               ],
               imageSrc: "https://storage.googleapis.com/webild/users/user_3MFIrpFWln4b6ycM0NgHaRaz7g7/uploaded-1795457959259-p48ckzpq.jpg?_wi=2",
-              imageAlt: "Окачени тавани и сухо строителство",
+              imageAlt: "Окачени тавани и сухо строителство в София",
               href: "#contact"
             },
             {
@@ -123,7 +123,7 @@ export default function HomePage() {
                 "Безпрекорно гладък финиш"
               ],
               imageSrc: "https://storage.googleapis.com/webild/users/user_3MFIrpFWln4b6ycM0NgHaRaz7g7/uploaded-1795457959261-wsom0fct.jpg?_wi=2",
-              imageAlt: "Шпакловка и нанасяне на декоративна мазилка",
+              imageAlt: "Шпакловка и нанасяне на защитна декоративна мазилка в София",
               href: "#contact"
             }
           ]}
@@ -142,15 +142,15 @@ export default function HomePage() {
           images={[
             {
               imageSrc: "https://storage.googleapis.com/webild/users/user_3MFIrpFWln4b6ycM0NgHaRaz7g7/uploaded-1795457959258-j48y2v4q.jpg?_wi=3",
-              imageAlt: "Външна топлоизолация на сграда"
+              imageAlt: "Външна топлоизолация на сграда в град София"
             },
             {
               imageSrc: "https://storage.googleapis.com/webild/users/user_3MFIrpFWln4b6ycM0NgHaRaz7g7/uploaded-1795457959259-00t7s5eg.jpg?_wi=3",
-              imageAlt: "Алпинистки ремонт по фасада"
+              imageAlt: "Алпинистки ремонт по височинна фасада в София"
             },
             {
               imageSrc: "https://storage.googleapis.com/webild/users/user_3MFIrpFWln4b6ycM0NgHaRaz7g7/uploaded-1795457959261-iysdowws.jpg?_wi=2",
-              imageAlt: "Топлоизолация по въжен способ"
+              imageAlt: "Топлоизолация по въжен способ в град София"
             }
           ]}
           labels={{

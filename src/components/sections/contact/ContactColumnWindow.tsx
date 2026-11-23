@@ -5,6 +5,7 @@ import { twMerge } from "tailwind-merge";
 import MaskedLineReveal from "@/components/animation/MaskedLineReveal";
 import { useImageReady, useKitMotion } from "@/components/kit/kitMotion";
 import Media, { MotionMedia } from "@/components/kit/Media";
+import { addInquiry } from "@/utils/inquiries";
 
 const cn = (...inputs: ClassValue[]) => twMerge(clsx(inputs));
 
@@ -28,7 +29,7 @@ const defaults: Photo[] = [
 const fieldDefs = [
   { name: "name", type: "text", wide: false },
   { name: "company", type: "text", wide: false },
-  { name: "email", type: "email", wide: true },
+  { name: "email", type: "text", wide: true },
 ];
 
 const ContactColumnWindow = ({
@@ -58,6 +59,13 @@ const ContactColumnWindow = ({
 
   const onSubmit = (event: FormEvent<HTMLFormElement>) => {
     event.preventDefault();
+    const formData = new FormData(event.currentTarget);
+    const name = String(formData.get("name") || "");
+    const company = String(formData.get("company") || "");
+    const email = String(formData.get("email") || "");
+    const message = String(formData.get("message") || "");
+
+    addInquiry({ name, company, email, message });
     setSent(true);
   };
 

@@ -1,5 +1,6 @@
 import HeroColumnGrid from "@/components/sections/hero/HeroColumnGrid";
 import ServicesIndustryTiles from "@/components/sections/features/ServicesIndustryTiles";
+import ProjectsGallery from "@/components/sections/projects/ProjectsGallery";
 import ContactColumnWindow from "@/components/sections/contact/ContactColumnWindow";
 import LoaderHairlineColumns from "@/components/loaders/LoaderHairlineColumns";
 
@@ -18,8 +19,8 @@ export default function HomePage() {
             text: "Разгледай услугите",
             href: "#services"
           }}
-          imageSrc="https://img.b2bpic.net/free-photo/detail-urban-stairs_23-2148107043.jpg"
-          imageAlt="detail of urban staircase"
+          imageSrc="https://storage.googleapis.com/webild/users/user_3MFIrpFWln4b6ycM0NgHaRaz7g7/uploaded-1795457959259-00t7s5eg.jpg"
+          imageAlt="Алпинистки услуги и топлоизолация по въжен способ"
           introDelay={1.7}
         />
       </div>
@@ -37,8 +38,8 @@ export default function HomePage() {
                 "Задържа топлината в стаята",
                 "Бърз и чист монтаж"
               ],
-              imageSrc: "https://img.b2bpic.net/free-photo/medium-shot-construction-worker-ladder_23-2149366649.jpg",
-              imageAlt: "Medium shot construction worker on ladder",
+              imageSrc: "https://storage.googleapis.com/webild/users/user_3MFIrpFWln4b6ycM0NgHaRaz7g7/uploaded-1795457959258-j48y2v4q.jpg",
+              imageAlt: "Вътрешна и външна топлоизолация",
               href: "#contact"
             },
             {
@@ -49,8 +50,8 @@ export default function HomePage() {
                 "Устойчивост на атмосферата",
                 "Спестява разходи за ток"
               ],
-              imageSrc: "https://img.b2bpic.net/free-photo/female-construction-worker-with-helmet-tape-measurer_23-2148813392.jpg",
-              imageAlt: "woman measuring wall with tape",
+              imageSrc: "https://storage.googleapis.com/webild/users/user_3MFIrpFWln4b6ycM0NgHaRaz7g7/uploaded-1795457959258-j48y2v4q.jpg",
+              imageAlt: "Външна топлоизолация на фасада",
               href: "#contact"
             },
             {
@@ -61,8 +62,8 @@ export default function HomePage() {
                 "Ремонт на високи фасади",
                 "Бърза работа без скеле"
               ],
-              imageSrc: "https://img.b2bpic.net/free-photo/man-bouldering-spot_23-2151734253.jpg",
-              imageAlt: "Man at bouldering spot",
+              imageSrc: "https://storage.googleapis.com/webild/users/user_3MFIrpFWln4b6ycM0NgHaRaz7g7/uploaded-1795457959259-00t7s5eg.jpg",
+              imageAlt: "Алпинистки услуги по фасади",
               href: "#contact"
             },
             {
@@ -73,8 +74,20 @@ export default function HomePage() {
                 "Внимание към всеки детайл",
                 "Спазване на уговорени срокове"
               ],
-              imageSrc: "https://img.b2bpic.net/free-photo/electrician-installer-with-tool-his-hands-working-with-cable-construction-site_169016-5885.jpg",
-              imageAlt: "Electrician installer with a tool in his hands, working with cable on the construction site.",
+              imageSrc: "https://storage.googleapis.com/webild/users/user_3MFIrpFWln4b6ycM0NgHaRaz7g7/uploaded-1795457959259-p48ckzpq.jpg",
+              imageAlt: "Фасаден ремонт и изолационна система",
+              href: "#contact"
+            },
+            {
+              title: "Работа на височина",
+              description: "Професионални фасадни ремонти по калкани и труднодостъпни зони.",
+              facts: [
+                "Пълно дюбелиране на плоскости",
+                "Възстановяване на фуги и мазилки",
+                "Гарантирана безопасност"
+              ],
+              imageSrc: "https://storage.googleapis.com/webild/users/user_3MFIrpFWln4b6ycM0NgHaRaz7g7/uploaded-1795457959261-iysdowws.jpg",
+              imageAlt: "Монтаж на топлоизолация на височина",
               href: "#contact"
             },
             {
@@ -85,8 +98,8 @@ export default function HomePage() {
                 "Възстановяване на мазилки",
                 "Чистота по време на работа"
               ],
-              imageSrc: "https://img.b2bpic.net/free-photo/empty-concrete-pedestrian-underpass-tunnel-with-fluorescent-lighting-kanazawa-japan_1308-188871.jpg",
-              imageAlt: "Empty Concrete Pedestrian Underpass Tunnel with Fluorescent Lighting in Kanazawa Japan",
+              imageSrc: "https://storage.googleapis.com/webild/users/user_3MFIrpFWln4b6ycM0NgHaRaz7g7/uploaded-1795457959261-wsom0fct.jpg",
+              imageAlt: "Възстановяване и мазилки на фасади",
               href: "#contact"
             },
             {
@@ -97,20 +110,8 @@ export default function HomePage() {
                 "Вграждане на LED осветление",
                 "Естетичен краен резултат"
               ],
-              imageSrc: "https://img.b2bpic.net/free-photo/construction-worker-carrying-placard_23-2149328065.jpg",
-              imageAlt: "Construction worker carrying placard",
-              href: "#contact"
-            },
-            {
-              title: "Монтаж на гипсокартон",
-              description: "Сухо строителство, преградни стени и предстени.",
-              facts: [
-                "Изграждане на нови стени",
-                "Идеално равни повърхности",
-                "Бързо сухо строителство"
-              ],
-              imageSrc: "https://img.b2bpic.net/free-photo/construction-worker-holding-tool-full-shot_23-2149328044.jpg",
-              imageAlt: "Construction worker holding tool full shot",
+              imageSrc: "https://storage.googleapis.com/webild/users/user_3MFIrpFWln4b6ycM0NgHaRaz7g7/uploaded-1795457959259-p48ckzpq.jpg",
+              imageAlt: "Окачени тавани и сухо строителство",
               href: "#contact"
             },
             {
@@ -121,12 +122,16 @@ export default function HomePage() {
                 "Качествени латексови бои",
                 "Безпрекорно гладък финиш"
               ],
-              imageSrc: "https://img.b2bpic.net/free-photo/flat-lay-paint-roller-isolated-white-background_53876-31283.jpg",
-              imageAlt: "Flat lay of paint roller isolated on white background",
+              imageSrc: "https://storage.googleapis.com/webild/users/user_3MFIrpFWln4b6ycM0NgHaRaz7g7/uploaded-1795457959261-wsom0fct.jpg",
+              imageAlt: "Шпакловка и нанасяне на декоративна мазилка",
               href: "#contact"
             }
           ]}
         />
+      </div>
+
+      <div id="projects" data-webild-section="ProjectsGallery" data-webild-section-id="ProjectsGallery-1" data-section="projects">
+        <ProjectsGallery />
       </div>
 
       <div id="contact" data-webild-section="ContactColumnWindow" data-webild-section-id="ContactColumnWindow-1" data-section="contact">
@@ -136,16 +141,16 @@ export default function HomePage() {
           successText="Благодарим ви! Ще се свържем с вас възможно най-скоро."
           images={[
             {
-              imageSrc: "https://img.b2bpic.net/free-photo/plasterboard-ceiling-installed-profile-frame-apartment-office-renovation-cheap-quick-way-make-partition-ceiling-room-warehouse_166373-1914.jpg",
-              imageAlt: "plasterboard ceiling installation"
+              imageSrc: "https://storage.googleapis.com/webild/users/user_3MFIrpFWln4b6ycM0NgHaRaz7g7/uploaded-1795457959258-j48y2v4q.jpg",
+              imageAlt: "Външна топлоизолация на сграда"
             },
             {
-              imageSrc: "https://img.b2bpic.net/free-photo/close-up-portrait-engineer-talking-phone_23-2148233674.jpg",
-              imageAlt: "Close-up portrait of engineer talking on the phone"
+              imageSrc: "https://storage.googleapis.com/webild/users/user_3MFIrpFWln4b6ycM0NgHaRaz7g7/uploaded-1795457959259-00t7s5eg.jpg",
+              imageAlt: "Алпинистки ремонт по фасада"
             },
             {
-              imageSrc: "https://img.b2bpic.net/free-photo/full-shot-people-holding-brushes_23-2149394459.jpg",
-              imageAlt: "Full shot people holding brushes"
+              imageSrc: "https://storage.googleapis.com/webild/users/user_3MFIrpFWln4b6ycM0NgHaRaz7g7/uploaded-1795457959261-iysdowws.jpg",
+              imageAlt: "Топлоизолация по въжен способ"
             }
           ]}
           labels={{

@@ -18,6 +18,10 @@ export default function Layout() {
               href: "#services"
             },
             {
+              name: "Проекти",
+              href: "#projects"
+            },
+            {
               name: "Контакт",
               href: "#contact"
             }
@@ -50,6 +54,10 @@ export default function Layout() {
                 {
                   text: "Услуги",
                   href: "#services"
+                },
+                {
+                  text: "Проекти",
+                  href: "#projects"
                 },
                 {
                   text: "Контакт",

@@ -19,7 +19,7 @@ export default function HomePage() {
             text: "Разгледай услугите",
             href: "#services"
           }}
-          imageSrc="https://storage.googleapis.com/webild/users/user_3MFIrpFWln4b6ycM0NgHaRaz7g7/uploaded-1795457959259-00t7s5eg.jpg?_wi=1"
+          imageSrc="https://storage.googleapis.com/webild/users/user_3MFIrpFWln4b6ycM0NgHaRaz7g7/uploaded-1795456367815-4kjsrvbu.png"
           imageAlt="Алпинистки услуги и топлоизолация по въжен способ"
           introDelay={1.7}
         />

@@ -59,6 +59,14 @@ export default function Layout() {
               href: "#projects"
             },
             {
+              name: "Въпроси",
+              href: "#faq"
+            },
+            {
+              name: "Блог & Съвети",
+              href: "#blog-tips"
+            },
+            {
               name: "Контакт",
               href: "#contact"
             }
@@ -138,6 +146,14 @@ export default function Layout() {
                 {
                   text: "Проекти",
                   href: "#projects"
+                },
+                {
+                  text: "Въпроси & Отговори",
+                  href: "#faq"
+                },
+                {
+                  text: "Блог & Съвети",
+                  href: "#blog-tips"
                 },
                 {
                   text: "Контакт",
